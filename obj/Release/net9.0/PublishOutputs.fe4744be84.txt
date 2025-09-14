@@ -1,0 +1,1 @@
+C:\Users\shnkr\Downloads\MyBlazorApp\MyBlazorApp\build\web.config
